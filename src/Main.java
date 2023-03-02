@@ -2,7 +2,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class Main {
-
     //Вопросы по билету №13.
     //1. Что такое переопределение (override) метода?
     //2. Дайте краткую характеристику класса Object в Java.
@@ -13,7 +12,7 @@ public class Main {
     //- Задача на лайв-кодинг
     //Напишите Java-программу для удаления всех пробелов из строки с помощью replace()
     public static void main(String[] args) {
-    ArrayList<Integer> arrList = new ArrayList<>();
+        ArrayList<Integer> arrList = new ArrayList<>();
         arrList.add(1);
         arrList.add(2);
         arrList.add(3);
